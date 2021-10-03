@@ -4,6 +4,7 @@ How to set up a HylaFAX Client to print the wrong way.
 First, install HylaPEx and PDF24.
 
 Copy fax.bat & fax2.bat in the default HylaPEx installation directory. (C:\Program Files (x86)\Hylapex)
+
 Change in fax2.bat \<username\>, \<password\> & \<server\> to your configuration. 
 
 Start HylaPEx. (You may go into the default installation directory and can start it from there. Consider a shortcut.)
